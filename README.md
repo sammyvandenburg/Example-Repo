@@ -1,44 +1,36 @@
 # Hi, I'm Sammy van den Burg
 
-DevOps Engineer building production-style cloud native infrastructure with Kubernetes, GitOps, Terraform, Linux, CI/CD, and observability.
+I build and document production-style infrastructure projects that prove real DevOps and platform engineering ability.
 
-I focus on turning hands-on infrastructure projects into public proof of engineering ability.
+My GitHub is centered around a Kubernetes homelab built with Talos Linux, FluxCD, Cilium, Terraform, Prometheus, and Grafana. It includes architecture diagrams, decision records, automation, observability, and repository structure that reflects how modern infrastructure teams actually work.
 
----
-
-## What I build
-
-- Kubernetes platforms using Talos Linux and GitOps
-- Infrastructure as Code with Terraform
-- CI/CD workflows and deployment automation
-- Monitoring and observability stacks with Prometheus and Grafana
-- Portfolio projects designed to reflect production thinking, not tutorial-level setups
+This profile is not a collection of tutorials or sandbox repos. It is a public portfolio of hands-on infrastructure, repeatable systems, and engineering decisions.
 
 ---
 
-## Featured projects
+## Featured Proof
 
 ### Kubernetes Homelab
-A GitOps-managed Kubernetes homelab built with Talos Linux, FluxCD, Cilium, observability, and day 2 operations in mind.
+GitOps-managed Kubernetes platform built with Talos Linux, FluxCD, Cilium, Terraform, Prometheus, and Grafana. This is the strongest public example of how I design, structure, and operate infrastructure.
 
 ### Terraform Platform Infrastructure
-Reusable infrastructure as code project showing modular Terraform structure and environment-aware provisioning.
+Reusable infrastructure as code project showing modular design, environment-aware provisioning, and repeatable platform setup.
 
 ### DevOps Automation Toolkit
-Automation scripts and CLI tooling for validation, operations, and repeatable workflows.
+Automation scripts and CLI tooling for validation, operations, and infrastructure workflows.
 
 ### Kubernetes Observability Stack
-Monitoring, dashboards, and alerting for Kubernetes workloads using Prometheus and Grafana.
+Monitoring, dashboards, and alerting setup focused on visibility, reliability, and operational awareness.
 
 ### CI/CD Platform Workflows
-GitHub Actions workflows and validation pipelines for infrastructure and application delivery.
+GitHub Actions workflows and validation pipelines for infrastructure and delivery automation.
 
 ### Open Source Contributions
-Public record of my contributions to cloud native open source projects.
+Public record of contributions to cloud native and DevOps projects.
 
 ---
 
-## Core stack
+## Core Stack
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge)
 ![Talos Linux](https://img.shields.io/badge/Talos_Linux-FF7300?style=for-the-badge)
@@ -55,7 +47,7 @@ Public record of my contributions to cloud native open source projects.
 
 ## Writing
 
-- Building a Secure Kubernetes Homelab with Talos Linux and FluxCD
+- Building a Production-Style Kubernetes Homelab with Talos Linux and FluxCD
 - Why I Chose Talos Linux Over a Traditional Node OS
 - Structuring GitOps for Repeatable Kubernetes Deployments
 - What My Homelab Taught Me About Platform Engineering
@@ -66,9 +58,3 @@ Public record of my contributions to cloud native open source projects.
 
 - LinkedIn
 - Blog / Website
-
----
-
-Most of my production work lives in private repositories.
-
-The projects here represent my personal infrastructure, public engineering work, and hands-on DevOps portfolio projects.
